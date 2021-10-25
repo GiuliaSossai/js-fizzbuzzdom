@@ -1,0 +1,36 @@
+body{
+  background-color: #073B4C;
+  color: black;
+}
+
+h1 {
+  font-size: 80px;
+  font-weight: 800;
+  color: white;
+}
+
+.box {
+  width: 80px;
+  height: 80px;
+  margin: 10px;
+  background-color: #1489B2;
+  border: 1px solid black;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.box.all {
+  background-color: #EF466F;
+}
+
+.box.three {
+  background-color: #0BD6A1;
+} 
+
+.box.five {
+  background-color: #FFD165;
+}
+
+
+
